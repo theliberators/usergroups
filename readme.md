@@ -39,7 +39,7 @@ If you're interested in starting a User Group in your country, do the following:
 
 ## Support Our Network
 
-A lot of work goes into organizing, maintaining and spreading this thriving community into all the corners of the world. The great news is that the community is funding our efforts. If you enjoy this community, [please considering supporting us too on Patreon](https://patreon.com/liberators.
+A lot of work goes into organizing, maintaining and spreading this thriving community into all the corners of the world. The great news is that the community is funding our efforts. If you enjoy this community, [please considering supporting us too on Patreon](https://patreon.com/liberators).
 
 ## Making Changes To This Repository
 
