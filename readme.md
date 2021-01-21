@@ -15,18 +15,17 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 ## Index of User Groups
 
 - [Global](https://www.meetup.com/The-Liberators/)
-- [France (link coming soon)]() by Elsa
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
 - [Italy](http://bit.ly/2Xcfntq) - by Carlo
 - [Panama](http://bit.ly/2Xcfntq) - by Ulises
 - [Poland](http://bit.ly/2Xcfntq) - by Sebastian
 - [Mexico](http://bit.ly/2Xcfntq) - by Luis
 - [Spain](http://bit.ly/2Xcfntq) - by Alex, Pol, Olga & Javier
-- [Switzerland](http://bit.ly/2Xcfntq) - by P
+- [Switzerland](http://bit.ly/2Xcfntq) - by Peter, Christian, and Markus
 - [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
 - [Taiwan](https://bit.ly/3b9IzcE) - by Chungan & Tony
-- [United Kingdom](http://bit.ly/2Xcfntq) - by Tom, Sean & Martin
-- [United States](http://bit.ly/2Xcfntq) - Jon, Amy & Christopher
+- [United Kingdom](http://bit.ly/2Xcfntq) - by Tom & Sean
+- [United States](http://bit.ly/2Xcfntq) - Jon & Christopher
 
 ## Want To Start A Local User Group?
 
@@ -36,6 +35,7 @@ If you're interested in starting a User Group in your country, do the following:
 2. Read the [Community Principles](https://github.com/theliberators/usergroups/blob/master/Community%20Principles/Community%20Principles.pdf?raw=true) that we created (and are continuously refining) with the community
 3. Send an email to [info@theliberators.com](mailto:info@theliberators.com) to apply. Please provide us with a motivation as to why you'd like to start 
 4. Join, or upgrade to, the "Liberator"-tier on our [Patreon](https://patreon.com/liberators). This gives you access to a free local organizer kit, access to frequent user group organizer meetups and support from us
+5. For the upcoming months, our focus is the current 11 user groups. Once this proves to be a success, we add new user groups. Probably, we're talking about September 2021.
 
 ## Support Our Network
 
