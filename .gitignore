@@ -1,0 +1,7 @@
+*.html
+/temp
+/Html
+
+# PowerPoint temporary
+~$*.ppt*
+.DS_Store
