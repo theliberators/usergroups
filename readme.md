@@ -15,18 +15,19 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 ## Index of User Groups
 
 - [Global](https://www.meetup.com/The-Liberators/)
+
+- [France (link coming soon]() by Elsa
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
 - [Italy](http://bit.ly/2Xcfntq) - by Carlo
-- [United Kingdom](http://bit.ly/2Xcfntq) - by Tom, Sean & Martin
-- [Spain](http://bit.ly/2Xcfntq) - by Alex, Pol, Olga & Javier
-- [Switzerland](http://bit.ly/2Xcfntq) - by P
-- [France]() by Elsa
 - [Panama](http://bit.ly/2Xcfntq) - by Ulises
 - [Poland](http://bit.ly/2Xcfntq) - by Sebastian
-- [United States](http://bit.ly/2Xcfntq) - Jon, Amy & Christopher
 - [Mexico](http://bit.ly/2Xcfntq) - by Luis
-- [Turkey]() - by Umut, Baris, Aysegul & Emin
-- [Taiwan]() - by Chungan & Tony
+- [Spain](http://bit.ly/2Xcfntq) - by Alex, Pol, Olga & Javier
+- [Switzerland](http://bit.ly/2Xcfntq) - by P
+- [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
+- [Taiwan](https://bit.ly/3b9IzcE) - by Chungan & Tony
+- [United Kingdom](http://bit.ly/2Xcfntq) - by Tom, Sean & Martin
+- [United States](http://bit.ly/2Xcfntq) - Jon, Amy & Christopher
 
 ## Want To Start A Local User Group?
 
