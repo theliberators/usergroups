@@ -16,7 +16,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Global](https://www.meetup.com/The-Liberators/)
 
-- [France (link coming soon]() by Elsa
+- [France (link coming soon)]() by Elsa
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
 - [Italy](http://bit.ly/2Xcfntq) - by Carlo
 - [Panama](http://bit.ly/2Xcfntq) - by Ulises
