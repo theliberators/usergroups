@@ -15,7 +15,6 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 ## Index of User Groups
 
 - [Global](https://www.meetup.com/The-Liberators/)
-
 - [France (link coming soon)]() by Elsa
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
 - [Italy](http://bit.ly/2Xcfntq) - by Carlo
