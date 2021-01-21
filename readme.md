@@ -1,3 +1,5 @@
+![Liberator Network](https://raw.githubusercontent.com/theliberators/usergroups/master/Assets/Banner.jpg "Liberator Network")
+
 # THE LIBERATOR NETWORK
 
 We are a global community of like-minded people that exists to help practitioners of Scrum, other Agile methods, and Liberating Structures to find support, offer help, and draw inspiration. We believe in the power of peer-to-peer inspiration to overcome the tough challenges we face when we try to liberate teams and organizations from ineffective, de-humanizing, and traditional ways of working.
@@ -30,7 +32,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 If you're interested in starting a User Group in your country, do the following:
 
-1. Read the [Rules of Play](.\Rules of Play\Rules of Play for Organizers.pdf) to understand the (minimal) boundaries
-2. Read the [Community Principles](.\Community Principles\Community Principles.pdf) that we created (and are continuously refining) with the community
+1. Read the [Rules of Play](Rules of Play\Rules of Play for Organizers.pdf) to understand the (minimal) boundaries
+2. Read the [Community Principles](Community Principles\Community Principles.pdf) that we created (and are continuously refining) with the community
 3. Send an email to [mailto:info@theliberators.com](info@theliberators.com) when you'd like to proceed
 
