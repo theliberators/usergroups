@@ -32,7 +32,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 If you're interested in starting a User Group in your country, do the following:
 
-1. Read the [Rules of Play](Rules of Play\Rules of Play for Organizers.pdf) to understand the (minimal) boundaries
-2. Read the [Community Principles](Community Principles\Community Principles.pdf) that we created (and are continuously refining) with the community
+1. Read the [Rules of Play](https://github.com/theliberators/usergroups/blob/master/Rules%20of%20Play/Rules%20of%20Play%20for%20Organizers.pdf?raw=true) to understand the (minimal) boundaries
+2. Read the [Community Principles](https://github.com/theliberators/usergroups/blob/master/Community%20Principles/Community%20Principles.pdf?raw=true) that we created (and are continuously refining) with the community
 3. Send an email to [mailto:info@theliberators.com](info@theliberators.com) when you'd like to proceed
 
