@@ -22,8 +22,8 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Mexico](http://bit.ly/2Xcfntq) - by Luis
 - [Spain](http://bit.ly/2Xcfntq) - by Alex, Pol, Olga & Javier
 - [Switzerland](http://bit.ly/2Xcfntq) - by Peter, Christian, and Markus
-- [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
 - [Taiwan](https://bit.ly/3b9IzcE) - by Chungan & Tony
+- [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
 - [United Kingdom](http://bit.ly/2Xcfntq) - by Tom & Sean
 - [United States](http://bit.ly/2Xcfntq) - Jon & Christopher
 
