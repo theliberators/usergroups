@@ -37,6 +37,11 @@ If you're interested in starting a User Group in your country, do the following:
 4. Join, or upgrade to, the "Liberator"-tier on our [Patreon](https://patreon.com/liberators). This gives you access to a free local organizer kit, access to frequent user group organizer meetups and support from us
 5. For the upcoming months, our focus is the current 11 user groups. Once this proves to be a success, we add new user groups. Probably, we're talking about September 2021.
 
+## Measuring Our Success
+
+Since this is an experiment, we are tracking a number of metrics to help us determine whether we are successful or not:
+https://app.cyfe.com/dashboards/975945/600ae6ca1aa4c100614467838313
+
 ## Support Our Network
 
 A lot of work goes into organizing, maintaining and spreading this thriving community into all the corners of the world. The great news is that the community is funding our efforts. If you enjoy this community, [please considering supporting us too on Patreon](https://patreon.com/liberators).
