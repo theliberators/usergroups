@@ -16,16 +16,16 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Global](https://www.meetup.com/The-Liberators/)
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
-- [Italy](http://bit.ly/2Xcfntq) - by Carlo
-- [Panama](http://bit.ly/2Xcfntq) - by Ulises
-- [Poland](http://bit.ly/2Xcfntq) - by Sebastian
-- [Mexico](http://bit.ly/2Xcfntq) - by Luis
-- [Spain](http://bit.ly/2Xcfntq) - by Alex, Pol, Olga & Javier
-- [Switzerland](http://bit.ly/2Xcfntq) - by Peter, Christian, and Markus
-- [Taiwan](https://bit.ly/3b9IzcE) - by Chungan & Tony
+- [Italy](http://bit.ly/3b8HL7L) - by Carlo
+- [Panama](https://bit.ly/2L1bIfn) - by Ulises
+- [Poland](https://bit.ly/3lVoqJN) - by Sebastian
+- [Mexico](http://bit.ly/39qmu7h) - by Luis
+- [Spain](https://bit.ly/2XdHoki) - by Alex, Pol, Olga & Javier
+- [Switzerland](https://bit.ly/3fhJAPU) - by Peter, Christian, and Markus
+- [Taiwan](http://bit.ly/3b9IzcE) - by Chungan & Tony
 - [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
-- [United Kingdom](http://bit.ly/2Xcfntq) - by Tom & Sean
-- [United States](http://bit.ly/2Xcfntq) - Jon & Christopher
+- [United Kingdom](http://bit.ly/2MvM6HP) - by Tom & Sean
+- [United States](https://bit.ly/3587gCw) - Jon & Christopher
 
 ## Want To Start A Local User Group?
 
