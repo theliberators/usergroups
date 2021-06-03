@@ -1,4 +1,4 @@
-![Liberator Network](https://raw.githubusercontent.com/theliberators/usergroups/master/Assets/Banner.jpg "Liberator Network")
+![Liberator Network](https://github.com/theliberators/usergroups/blob/4041ab4024247b4b22be88edcb282fc5d0a66a81/Banners/Liberator%20Network.jpg)
 
 
 # THE LIBERATOR NETWORK
