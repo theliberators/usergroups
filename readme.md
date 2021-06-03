@@ -1,5 +1,6 @@
 ![Liberator Network](https://raw.githubusercontent.com/theliberators/usergroups/master/Assets/Banner.jpg "Liberator Network")
 
+
 # THE LIBERATOR NETWORK
 
 We are a global community of like-minded people that exists to help practitioners of Scrum, other Agile methods, and Liberating Structures to find support, offer help, and draw inspiration. We believe in the power of peer-to-peer inspiration to overcome the tough challenges we face when we try to liberate teams and organizations from ineffective, de-humanizing, and traditional ways of working.
