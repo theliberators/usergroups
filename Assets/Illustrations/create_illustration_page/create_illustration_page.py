@@ -35,12 +35,17 @@ print('Document Title: ', documentTitle)
 # Possible Image File Types
 types = ('*.png', '*.jpeg', '*.jpg')
 
+# url for links
+illustration_url = "https://github.com/theliberators/usergroups/tree/main/Assets/Illustrations"
+
 with document(title=documentTitle) as doc:
-    h1(a(documentTitle, href="https://github.com/theliberators/usergroups/tree/main/Assets/Illustrations"))
+    h1(a(documentTitle, href=illustration_url))
 
     for image_type in types:
         for path in glob.glob(inputDirectory + '/' + image_type):
-            span(img(src=os.path.basename(path), style="width:30%"), _class='photo')
+            image_filename = os.path.basename(path)
+            image_url = os.path.join(illustration_url, image_filename)
+            span(a(img(src=image_filename, style="width:30%"), href=image_url, target="_blank"), _class='photo')
 
 with doc.head:
     link(rel='stylesheet', href='style.css')
