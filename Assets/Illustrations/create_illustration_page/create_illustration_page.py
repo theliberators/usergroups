@@ -35,7 +35,8 @@ print('Document Title: ', documentTitle)
 images = glob.glob(inputDirectory + '/*.png')
 
 with document(title=documentTitle) as doc:
-    h1(documentTitle)
+    h1(a(documentTitle, href="https://github.com/theliberators/usergroups/tree/main/Assets/Illustrations"))
+
     for path in images:
         span(img(src=os.path.basename(path), style="width:30%"), _class='photo')
 
