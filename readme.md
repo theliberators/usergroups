@@ -17,8 +17,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Global](https://www.meetup.com/The-Liberators/)
 - [India](http://bit.ly/2Xcfntq) - by Cipson & Mahesh
-- [Italy](http://bit.ly/3b8HL7L) - by Carlo
-- [Panama](https://bit.ly/2L1bIfn) - by Ulises
+- [Italy](http://bit.ly/3b8HL7L) - by Carlo & Eleonora
 - [Poland](https://bit.ly/3lVoqJN) - by Sebastian
 - [Mexico](http://bit.ly/39qmu7h) - by Luis
 - [Spain](https://bit.ly/2XdHoki) - by Alex, Pol, Olga & Javier
