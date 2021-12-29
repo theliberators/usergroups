@@ -17,15 +17,15 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Global](https://www.meetup.com/The-Liberators/)
 - [India](http://bit.ly/2Xcfntq) - by Mahesh Jade
-- [Italy](http://bit.ly/3b8HL7L) - by Carlo & Eleonora
-- [Poland](https://bit.ly/3lVoqJN) - by Sebastian
+- [Italy](http://bit.ly/3b8HL7L) - by Carlo Gandolfo & Eleonora Della Bernardina
+- [Poland](https://bit.ly/3lVoqJN) - by Sebastian Zebrowski
 - [Mexico](http://bit.ly/39qmu7h) - by Luis
-- [Spain](https://bit.ly/2XdHoki) - by Alex, Olga & Javier
-- [Switzerland](https://bit.ly/3fhJAPU) - by Peter, Christian, Markus, Manuel and Benji
-- [Taiwan](http://bit.ly/3b9IzcE) - by Chungan
-- [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
+- [Spain](https://bit.ly/2XdHoki) - by Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
+- [Switzerland](https://bit.ly/3fhJAPU) - by Peter Zylka-Greger, Christian Hofstetter, Markus Border, Manuel Mader and Benji Huser
+- [Taiwan](http://bit.ly/3b9IzcE) - by Chungan Ke
+- [Turkey](https://bit.ly/3pQr2uH) - by Umut Arisoy
 - [United Kingdom](http://bit.ly/2MvM6HP) - by Sheetal Taker & Rohit Gautam
-- [United States](https://bit.ly/3587gCw) - Jon, Christopher, & Megan
+- [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, & Megan Kuhl
 - Scotland - Martyn Gill
 
 ## Want To Start A Local User Group?
