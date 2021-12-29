@@ -16,7 +16,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 ## Index of User Groups
 
 - [Global](https://www.meetup.com/The-Liberators/)
-- [India](http://bit.ly/2Xcfntq) - by Mahesh
+- [India](http://bit.ly/2Xcfntq) - by Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - by Carlo & Eleonora
 - [Poland](https://bit.ly/3lVoqJN) - by Sebastian
 - [Mexico](http://bit.ly/39qmu7h) - by Luis
@@ -24,8 +24,9 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Switzerland](https://bit.ly/3fhJAPU) - by Peter, Christian, Markus, Manuel and Benji
 - [Taiwan](http://bit.ly/3b9IzcE) - by Chungan
 - [Turkey](https://bit.ly/3pQr2uH) - by Umut, Baris, Aysegul & Emin
-- [United Kingdom](http://bit.ly/2MvM6HP) - by Sheetal
+- [United Kingdom](http://bit.ly/2MvM6HP) - by Sheetal Taker & Rohit Gautam
 - [United States](https://bit.ly/3587gCw) - Jon, Christopher, & Megan
+- Scotland - Martyn Gill
 
 ## Want To Start A Local User Group?
 
