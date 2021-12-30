@@ -7,11 +7,11 @@ We are a global community that exists to help practitioners of Scrum, other Agil
 
 ## A Global Community With Local Meetups
 
-While The Liberators Network features global meetups, these can only go so far in offering more personal and local support. This is where our local branches, the user groups, come in. Each User Group focuses on a specific country, region or organization while also remaining open to other participants. To keep the quality high and prevent overload, we aim for one user group per region. A user group can be focused on a country (e.g. Switzerland user group), region (London user group), or a specific organization. Whatever you prefer. 
+While The Liberators Network features global meetups, these can only go so far in offering more personal and local support. This is where our local branches, the user groups, come in. Each user group focuses on a specific country, region or organization while also remaining open to other participants. To keep the quality high and prevent overload, we aim for one user group per region. A user group can be focused on a country (e.g. Switzerland user group), region (London user group), or a specific organization. Whatever you prefer. 
 
 User groups are autonomous in the sense that they can pick the topics that matter the most to them, and use the tools and platforms that are most suitable for that. User groups are integrated into the larger community in the sense that all groups are visible on a public Github page. Also, local organizers periodically meet to give and get help and start collective initiatives together. There is the option for local user groups to participate in global topics that are prepared together.
 
-We hope that The Liberators Network allows us all to tap into the potential of the collective brainpower, expertise, and creativity that such a large and diverse network holds. For example, we hope to develop, field test, and report on strings of Liberating Structures (e.g. to overcome Zombie Scrum or navigate conflicts), to develop helpful tools for Scrum Teams, and come up with creative ideas and powerful experiments.
+We hope that The Liberators Network allows us all to tap into the potential of the collective brainpower, expertise, and creativity that such a large and diverse network holds. For example, we hope to develop, field test, and report on strings of Liberating Structures (e.g. to overcome Zombie Scrum or navigate conflicts), to develop helpful tools for Scrum teams, and come up with creative ideas and powerful experiments.
 
 ## Index of User Groups
 
@@ -19,7 +19,6 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [India](http://bit.ly/2Xcfntq) - by Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - by Carlo Gandolfo & Eleonora Della Bernardina
 - [Poland](https://bit.ly/3lVoqJN) - by Sebastian Zebrowski
-- [Mexico](http://bit.ly/39qmu7h) - by Luis
 - [Spain](https://bit.ly/2XdHoki) - by Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
 - [Switzerland](https://bit.ly/3fhJAPU) - by Peter Zylka-Greger, Christian Hofstetter, Markus Border, Manuel Mader and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - by Chungan Ke
@@ -27,6 +26,8 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [United Kingdom](http://bit.ly/2MvM6HP) - by Sheetal Taker & Rohit Gautam
 - [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, & Megan Kuhl
 - Scotland - Martyn Gill
+- Nepal/Kathmandu - Biplab Subedi
+- Australia/Brisbane - Daniel Smith
 
 ## Want To Start A Local User Group?
 
