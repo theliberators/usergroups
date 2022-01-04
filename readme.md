@@ -15,21 +15,23 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## Index of User Groups
 
-- [Global](https://www.meetup.com/The-Liberators/)
-- [India](http://bit.ly/2Xcfntq) - by Mahesh Jade
-- [Italy](http://bit.ly/3b8HL7L) - by Carlo Gandolfo & Eleonora Della Bernardina
-- [Mexico](https://bit.ly/39qmu7h) - by Luis Martinez d'Oliveira
-- [Poland](https://bit.ly/3lVoqJN) - by Sebastian Zebrowski
-- [Spain](https://bit.ly/2XdHoki) - by Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
-- [Switzerland](https://bit.ly/3fhJAPU) - by Peter Zylka-Greger, Christian Hofstetter, Markus Border, Manuel Mader and Benji Huser
-- [Taiwan](http://bit.ly/3b9IzcE) - by Chungan Ke
-- [Turkey](https://bit.ly/3pQr2uH) - by Umut Arisoy
-- [United Kingdom](http://bit.ly/2MvM6HP) - by Sheetal Taker & Rohit Gautam
-- [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, Megan Kuhl, and Jim Sparks
-- Scotland - Martyn Gill
-- Nepal/Kathmandu - Biplab Subedi
 - Australia/Brisbane - Daniel Smith
 - Belarus - Diana Grishel
+- Denmark - Xhenisa Xhakollari
+- Germany - Martin de Ruiter
+- [Global](https://www.meetup.com/The-Liberators/)
+- [India](http://bit.ly/2Xcfntq) - Mahesh Jade
+- [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
+- [Mexico](https://bit.ly/39qmu7h) - Luis Martinez d'Oliveira
+- Nepal/Kathmandu - Biplab Subedi
+- [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
+- [Spain](https://bit.ly/2XdHoki) - Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
+- Scotland - Martyn Gill
+- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, Manuel Mader and Benji Huser
+- [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
+- [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
+- [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker & Rohit Gautam
+- [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, Megan Kuhl, and Jim Sparks
 
 ## Want To Start A Local User Group?
 
