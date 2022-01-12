@@ -15,7 +15,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## Index of User Groups
 
-- Australia - Daniel Smith & Vijay Varma
+- [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
 - Denmark - Xhenisa Xhakollari
 - Germany - Martin de Ruiter
