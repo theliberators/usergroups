@@ -25,9 +25,9 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Mexico](https://bit.ly/39qmu7h) - Luis Martinez d'Oliveira
 - [Nepal](https://bit.ly/3FoODJu)- Biplab Subedi
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
-- [Spain](https://bit.ly/2XdHoki) - Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
+- [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
-- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, Manuel Mader and Benji Huser
+- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
 - [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker & Rohit Gautam
