@@ -23,7 +23,11 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [India](http://bit.ly/2Xcfntq) - Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
 - [Mexico](https://bit.ly/39qmu7h) - Luis Martinez d'Oliveira
+<<<<<<< HEAD
 - [Nepal](https://bit.ly/3FoODJu)- Biplab Subedi
+=======
+- Nepal
+>>>>>>> b8ee6add3dd11a268465c57953e0c78b90397586
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
 - Scotland - Martyn Gill
