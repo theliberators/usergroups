@@ -19,11 +19,11 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - Belarus - Diana Grishel
 - Denmark - Xhenisa Xhakollari
 - Germany - Martin de Ruiter
-- [Global](https://www.meetup.com/The-Liberators/)
+- [Global](http://bit.ly/2StU2Im)
 - [India](http://bit.ly/2Xcfntq) - Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
 - [Mexico](https://bit.ly/39qmu7h) - Luis Martinez d'Oliveira
-- Nepal- Biplab Subedi
+- [Nepal](https://bit.ly/3FoODJu)- Biplab Subedi
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin, Olga Munoz Ramos & Javier Hernandez Brana
 - Scotland - Martyn Gill
