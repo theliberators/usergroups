@@ -29,7 +29,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
-- [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker & Rohit Gautam
+- [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker, Sean Parker & Rohit Gautam
 - [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, Megan Kuhl, and Jim Sparks
 
 ## Want To Start A Local User Group?
