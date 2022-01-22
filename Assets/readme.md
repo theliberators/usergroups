@@ -23,6 +23,10 @@ Barry & Christiaan
 ## Meetup templates to kickstart your user group
 - [Purpose-to-Practice template](https://bit.ly/3fJhnCB)
 
+## Conversation Cafe for topics Scrum Team Survey
+- Team Effectiveness - [workshop January 24](https://bit.ly/3g42VFz), [public meetup January 25](https://bit.ly/33EQnSg), workshop February 11
+- Team Morale - workshop February 21, public meetup February 22, workshop March 11
+
 ## Other links
 - Check our YouTube channel for e.g. experience interviews with [Bas Vodde](https://www.youtube.com/watch?v=3-u-xlux3h0), [Daniel Vacanti](https://www.youtube.com/watch?v=-OiqWHdtcBY), and [Roman Pichler](https://www.youtube.com/watch?v=Np9vEBi_Tgg)
 - Listen to our [podcast episodes](https://www.buzzsprout.com/466339)
