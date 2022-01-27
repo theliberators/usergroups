@@ -17,6 +17,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
+- Brazil
 - Denmark - Xhenisa Xhakollari
 - Germany - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
@@ -26,6 +27,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
+- South America
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
