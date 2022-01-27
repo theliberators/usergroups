@@ -18,7 +18,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
 - Denmark - Xhenisa Xhakollari
-- Germany - Martin de Ruiter
+- Germany - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
 - [India](http://bit.ly/2Xcfntq) - Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
