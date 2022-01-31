@@ -17,8 +17,9 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
+- Brazil
 - Denmark - Xhenisa Xhakollari
-- Germany - Martin de Ruiter
+- Germany - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
 - [India](http://bit.ly/2Xcfntq) - Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
@@ -26,6 +27,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
+- South America
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
@@ -40,12 +42,6 @@ If you're interested in starting a user group in your country, region or organis
 2. Read the [Community Principles](https://github.com/theliberators/usergroups/blob/master/Community%20Principles/Community%20Principles.pdf?raw=true) that we created (and are continuously refining) with the community
 3. Send an email to [info@theliberators.com](mailto:info@theliberators.com) to apply. Please provide us with a motivation as to why you'd like to start 
 4. Join, or upgrade to, the "Liberator"-tier on our [Patreon](https://patreon.com/liberators). This gives you access to a free local organizer kit, access to frequent user group organizer meetups and support from us
-
-
-## Measuring Our Success
-
-Since this is an experiment, we are tracking a number of metrics to help us determine whether we are successful or not:
-https://app.cyfe.com/dashboards/975945/600ae6ca1aa4c100614467838313
 
 ## Support Our Network
 
