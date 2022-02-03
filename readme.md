@@ -18,16 +18,19 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
 - Brazil
-- Denmark - Xhenisa Xhakollari
-- Germany - Martin de Ruiter & Nils Hyoma
+- Denmark - Xhenisa Xhakollari & Aitor Gomez Matias
+- France - Gowen Pottiez
+- Georgia - Nutsa Kuprava
+- [Germany](https://bit.ly/3L3exGY) - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
 - [India](http://bit.ly/2Xcfntq) - Mahesh Jade
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
-- [Nepal](https://bit.ly/3FoODJu)- Biplab Subedi
+- [Nepal](https://bit.ly/3FoODJu) - Biplab Subedi
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
 - South America
+- South Korea - Nari Kim & Eric Song Sungwuk
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
