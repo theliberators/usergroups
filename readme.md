@@ -19,7 +19,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
 - Brazil
-- Denmark - Xhenisa Xhakollari & Aitor Gomez Matias
+- [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
 - [France](https://bit.ly/3smSanw) - Gowen Pottiez
 - [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
 - [Germany](https://bit.ly/3L3exGY) - Martin de Ruiter & Nils Hyoma
