@@ -30,7 +30,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
-- South America
+- Latin America - Ulises Gonzalez, Luis Martinez, and Cesar Cabrera Quilcate
 - South Korea - Nari Kim & Eric Song Sungwuk
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
