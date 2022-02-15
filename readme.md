@@ -20,7 +20,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - Belarus - Diana Grishel
 - Brazil
 - [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
-- [France](https://bit.ly/3smSanw) - Gowen Pottiez
+- [France](https://bit.ly/3smSanw) - Gowen Pottiez & Vincent Binet
 - [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
 - [Germany](https://bit.ly/3L3exGY) - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
