@@ -15,7 +15,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## Index of User Groups
 
-- Africa - Alex Gbaguidi
+- [Africa](https://agileafrica.net/) - Alex Gbaguidi
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
 - [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, and Augusto Giles
