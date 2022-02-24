@@ -3,7 +3,7 @@
 
 # THE LIBERATORS NETWORK
 
-We are a global community that exists to help practitioners of Scrum, other Agile methods, and Liberating Structures to find support, offer help, and draw inspiration. We believe in the power of peer-to-peer inspiration to overcome the tough challenges we face when we try to liberate teams and organizations from ineffective, de-humanizing, and traditional ways of working.
+We are a global community that exists to help practitioners of Scrum, other Agile methods, and Liberating Structures to find support, offer help, and draw inspiration. We believe in the power of peer-to-peer inspiration to overcome the tough challenges we face when we try to liberate teams and organizations from ineffective ways of working.
 
 ## A Global Community With Local Meetups
 
@@ -15,12 +15,12 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## Index of User Groups
 
-- Africa - Alex Gbaguidi
+- [Africa](https://agileafrica.net/) - Alex Gbaguidi
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
-- Brazil
+- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, and Augusto Giles
 - [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
-- [France](https://bit.ly/3smSanw) - Gowen Pottiez
+- [France](https://bit.ly/3smSanw) - Gowen Pottiez & Vincent Binet
 - [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
 - [Germany](https://bit.ly/3L3exGY) - Martin de Ruiter & Nils Hyoma
 - [Global](http://bit.ly/2StU2Im) - Barry Overeem
@@ -31,7 +31,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
 - Scotland - Martyn Gill
 - Latin America - Ulises Gonzalez, Luis Martinez, and Cesar Cabrera Quilcate
-- South Korea - Nari Kim & Eric Song Sungwuk
+- [South Korea](https://bit.ly/3LMev6Q) - Nari Kim & Eric Song Sungwuk
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy

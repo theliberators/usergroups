@@ -24,7 +24,7 @@ Barry & Christiaan
 - [Purpose-to-Practice template](https://bit.ly/3fJhnCB)
 
 ## Conversation Cafe for topics Scrum Team Survey
-- Team Effectiveness - [workshop January 24](https://bit.ly/3g42VFz), [public meetup January 25](https://bit.ly/33EQnSg), workshop February 11
+- Team Effectiveness - [workshop January 24](https://bit.ly/3g42VFz), [public meetup January 25](https://bit.ly/33EQnSg), [workshop February 11](https://bit.ly/3JtMrTM)
 - Team Morale - workshop February 21, public meetup February 22, workshop March 11
 
 ## Other links
