@@ -32,3 +32,4 @@ Barry & Christiaan
 - Listen to our [podcast episodes](https://www.buzzsprout.com/466339)
 - Draw inspiration from our [blog posts](https://medium.com/the-liberators)
 - Use our [do-it-yourself workshops](https://shop.theliberators.com/collections/do-it-yourself-workshops-meetups-and-strings/Scrum) for your own meetups
+- Article Henri Lipmanowicz ["Profound Transformation or Shallow Change"])https://bit.ly/3tmoKq1)
