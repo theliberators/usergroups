@@ -28,7 +28,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
 - [Nepal](https://bit.ly/3FoODJu) - Biplab Subedi
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
-- [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
+- [Spain](https://academy.itnove.com/groups/7108408) - Alex Ballarin
 - Scotland - Martyn Gill
 - Latin America - Ulises Gonzalez, Luis Martinez, and Cesar Cabrera Quilcate
 - Singapore - Ashok Kumar
