@@ -41,7 +41,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## User Groups We Collaborate With
 
-- [Visual Agilists Ireland](Alex Gbaguidi) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
+- [Visual Agilists Ireland](https://www.meetup.com/Visual-Agilists-Ireland/) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
 
 ## Want To Start A Local User Group?
 
