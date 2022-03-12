@@ -28,15 +28,20 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
 - [Nepal](https://bit.ly/3FoODJu) - Biplab Subedi
 - [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
-- [Spain](https://bit.ly/2XdHoki) - Alex Ballarin
+- [Spain](https://academy.itnove.com/groups/7108408) - Alex Ballarin
 - Scotland - Martyn Gill
 - Latin America - Ulises Gonzalez, Luis Martinez, and Cesar Cabrera Quilcate
+- Singapore - Ashok Kumar
 - [South Korea](https://bit.ly/3LMev6Q) - Nari Kim & Eric Song Sungwuk
 - [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
 - [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker, Sean Parker & Rohit Gautam
 - [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, Megan Kuhl, and Jim Sparks
+
+## User Groups We Collaborate With
+
+- [Visual Agilists Ireland](https://www.meetup.com/Visual-Agilists-Ireland/) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
 
 ## Want To Start A Local User Group?
 
