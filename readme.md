@@ -18,7 +18,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Africa](https://agileafrica.net/) - Alex Gbaguidi
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
-- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, and Augusto Giles
+- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, Ebert Pinto, and Augusto Giles
 - [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
 - [France](https://bit.ly/3smSanw) - Gowen Pottiez & Vincent Binet
 - [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
@@ -33,7 +33,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - Latin America - Ulises Gonzalez, Luis Martinez, and Cesar Cabrera Quilcate
 - Singapore - Ashok Kumar
 - [South Korea](https://bit.ly/3LMev6Q) - Nari Kim & Eric Song Sungwuk
-- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Border, and Benji Huser
+- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Broder, and Benji Huser
 - [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
 - [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
 - [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker, Sean Parker & Rohit Gautam
