@@ -42,6 +42,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 ## User Groups We Collaborate With
 
 - [Visual Agilists Ireland](https://www.meetup.com/Visual-Agilists-Ireland/) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
+- [Agile Book Club](https://www.agilebook.club/) - Justyna Pindel, and Paul Klipp
 
 ## Want To Start A Local User Group?
 
