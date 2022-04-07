@@ -39,7 +39,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker, Sean Parker & Rohit Gautam
 - [United States](https://bit.ly/3587gCw) - Jon Dwyer, Christopher Jones, Megan Kuhl, and Jim Sparks
 
-## User Groups We Collaborate With
+## Communities We Collaborate With
 
 - [Visual Agilists Ireland](https://www.meetup.com/Visual-Agilists-Ireland/) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
 - [Agile Book Club](https://www.agilebook.club/) - Justyna Pindel, and Paul Klipp
