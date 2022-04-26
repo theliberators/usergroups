@@ -43,6 +43,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 - [Visual Agilists Ireland](https://www.meetup.com/Visual-Agilists-Ireland/) - Francesco Bianchi, Ana Mandic, and Pawel Olchowik
 - [Agile Book Club](https://www.agilebook.club/) - Justyna Pindel, and Paul Klipp
+- [Scrum Master Clinic Aarhus+](https://www.meetup.com/Scrum-Masters-Aarhus/) - Thomas Kofoed
 
 ## Want To Start A Local User Group?
 
