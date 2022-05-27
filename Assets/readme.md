@@ -23,6 +23,9 @@ Barry & Christiaan
 ## Meetup templates to kickstart your user group
 - [Purpose-to-Practice template](https://bit.ly/3fJhnCB)
 
+## Other tips & tricks
+- [Tips & tricks for organizing meetups](https://bit.ly/3NISh5P). Learn from others, and add your own ideas! 
+
 ## Other links
 - Check our YouTube channel for e.g. experience interviews with [Bas Vodde](https://www.youtube.com/watch?v=3-u-xlux3h0), [Daniel Vacanti](https://www.youtube.com/watch?v=-OiqWHdtcBY), and [Roman Pichler](https://www.youtube.com/watch?v=Np9vEBi_Tgg)
 - Listen to our [podcast episodes](https://www.buzzsprout.com/466339)
