@@ -18,7 +18,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Africa](https://agileafrica.net/) - Alex Gbaguidi
 - [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
 - Belarus - Diana Grishel
-- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, Ebert Pinto, and Augusto Giles
+- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, Eber Pinto, and Augusto Giles
 - [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
 - [France](https://bit.ly/3smSanw) - Gowen Pottiez & Vincent Binet
 - [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
