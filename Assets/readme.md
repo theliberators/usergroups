@@ -23,6 +23,11 @@ Barry & Christiaan
 ## Meetup templates to kickstart your user group
 - [Purpose-to-Practice template](https://bit.ly/3fJhnCB)
 
+## Miro/Mural templates
+- Templates: [String and Workshops](https://miro.com/app/board/uXjVOqPHuNs=/?share_link_id=143355325116)
+- Templates: [Liberating Structures](https://miro.com/app/board/uXjVOqPHuCk=/?share_link_id=941576142439)
+- Templates: [Community Meetups](https://miro.com/app/board/uXjVOqPHuUI=/?share_link_id=776794084993) 
+
 ## Tips & tricks
 - [Tips & tricks for organizing meetups](https://bit.ly/3NISh5P). Learn from others, and add your own ideas! 
 
