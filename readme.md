@@ -15,29 +15,27 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 
 ## Index of User Groups
 
-- [Africa](https://agileafrica.net/) - Alex Gbaguidi
-- [Australia](https://bit.ly/33uXA6M) - Daniel Smith & Vijay Varma
-- Belarus - Diana Grishel
-- [Brazil](https://bit.ly/33pfRTu) - Samuel Rocha, Dilmär Amädor, Eber Pinto, and Augusto Giles
-- [Denmark](https://bit.ly/3HCbinN) - Xhenisa Xhakollari & Aitor Gomez Matias
-- [France](https://bit.ly/3smSanw) - Gowen Pottiez & Vincent Binet
-- [Georgia](https://bit.ly/3HAlPQd) - Nutsa Kuprava
-- [Germany](https://bit.ly/3L3exGY) - Martin de Ruiter & Nils Hyoma
-- [Global](http://bit.ly/2StU2Im) - Barry Overeem
-- [India](http://bit.ly/2Xcfntq) - Mahesh Jade
-- [Italy](http://bit.ly/3b8HL7L) - Carlo Gandolfo & Eleonora Della Bernardina
-- [Nepal](https://bit.ly/3FoODJu) - Biplab Subedi
-- [Poland](https://bit.ly/3lVoqJN) - Sebastian Zebrowski
-- [Spain](https://academy.itnove.com/groups/7108408) - Alex Ballarin
-- Scotland - Martyn Gill
-- [Latin America](https://www.meetup.com/the-liberators-latin-america-user-group/) - Ulises Gonzalez, Cesar Cabrera Quilcate, Carlos Collao Rubio, Kasandra Cecilia Gonzales, Juan Cortez, and Dalmir Becerra
-- Singapore - Ashok Kumar
-- [South Korea](https://bit.ly/3LMev6Q) - Nari Kim & Eric Song Sungwuk
-- [Switzerland](https://bit.ly/3fhJAPU) - Peter Zylka-Greger, Christian Hofstetter, Markus Broder, and Benji Huser
-- [Taiwan](http://bit.ly/3b9IzcE) - Chungan Ke
-- [Turkey](https://bit.ly/3pQr2uH) - Umut Arisoy
-- [United Kingdom](http://bit.ly/2MvM6HP) - Sheetal Taker, Sean Parker & Rohit Gautam
-- [United States](https://bit.ly/3587gCw) - Christopher Jones
+- [Africa](https://agileafrica.net/) 
+- [Australia](https://bit.ly/33uXA6M) 
+- [Brazil](https://bit.ly/33pfRTu) 
+- [Denmark](https://bit.ly/3HCbinN)
+- [France](https://bit.ly/3smSanw) 
+- [Georgia](https://bit.ly/3HAlPQd) 
+- [Germany](https://bit.ly/3L3exGY) 
+- [Global](http://bit.ly/2StU2Im) 
+- [India](http://bit.ly/2Xcfntq) 
+- [Italy](http://bit.ly/3b8HL7L) 
+- [Nepal](https://bit.ly/3FoODJu) 
+- [Poland](https://bit.ly/3lVoqJN) 
+- [Spain](https://academy.itnove.com/groups/7108408) - 
+- [Latin America](https://www.meetup.com/the-liberators-latin-america-user-group/) 
+- Singapore -
+- [South Korea](https://bit.ly/3LMev6Q) 
+- [Switzerland](https://bit.ly/3fhJAPU) 
+- [Taiwan](http://bit.ly/3b9IzcE) 
+- [Turkey](https://bit.ly/3pQr2uH) 
+- [United Kingdom](http://bit.ly/2MvM6HP)
+- [United States](https://bit.ly/3587gCw) 
 
 ## Communities We Collaborate With
 
