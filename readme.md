@@ -50,7 +50,7 @@ If you're interested in starting a user group in your country, region or organis
 1. Read the [Rules of Play](https://github.com/theliberators/usergroups/blob/e7dc2abc55299b26dadd8323b2f0af1adc463064/Community%20Principles/Rules%20Of%20Play%20For%20User%20Group%20Organizers.pdf) to understand the (minimal) boundaries
 2. Read the [Community Principles](https://github.com/theliberators/usergroups/blob/master/Community%20Principles/Community%20Principles.pdf?raw=true) that we created (and are continuously refining) with the community
 3. Send an email to [info@theliberators.com](mailto:info@theliberators.com) to apply. Please provide us with a motivation as to why you'd like to start 
-4. Join, or upgrade to, the "Liberator"-tier on our [Patreon](https://patreon.com/liberators). This gives you access to a free local organizer kit, access to frequent user group organizer meetups and support from us
+4. Join our [Patreon community](https://patreon.com/liberators). 
 
 ## Support Our Network
 
