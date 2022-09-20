@@ -27,9 +27,9 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Italy](http://bit.ly/3b8HL7L) 
 - [Nepal](https://bit.ly/3FoODJu) 
 - [Poland](https://bit.ly/3lVoqJN) 
-- [Spain](https://academy.itnove.com/groups/7108408) - 
+- [Spain](https://academy.itnove.com/groups/7108408)
 - [Latin America](https://www.meetup.com/the-liberators-latin-america-user-group/) 
-- Singapore -
+- [Singapore](https://www.linkedin.com/company/the-liberators-network-singapore-meetups/)
 - [South Korea](https://bit.ly/3LMev6Q) 
 - [Switzerland](https://bit.ly/3fhJAPU) 
 - [Taiwan](http://bit.ly/3b9IzcE) 
