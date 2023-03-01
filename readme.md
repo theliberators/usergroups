@@ -23,6 +23,7 @@ We hope that The Liberators Network allows us all to tap into the potential of t
 - [Georgia](https://bit.ly/3HAlPQd) 
 - [Germany](https://bit.ly/3L3exGY) 
 - [Global](http://bit.ly/2StU2Im) 
+- [Greece](https://www.linkedin.com/groups/12725326/)
 - [India](http://bit.ly/2Xcfntq) 
 - [Italy](http://bit.ly/3b8HL7L) 
 - [Nepal](https://bit.ly/3FoODJu) 
